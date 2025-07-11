@@ -56,10 +56,10 @@ The trained model file (model.h5) is too large to include directly on GitHub (ov
 If you'd like to test the model locally, please DM me directly, and I will share the file (Google Drive link or other preferred method).
 ``` 
 
-🎥 Demo
+🎥 Demo:
 A working demo video showcasing the app in action will be added here soon! 🔥
 
-🤝 Contributing
+🤝 Contributing:
 Contributions, issues, and feature requests are welcome!
 Feel free to open issues or pull requests to improve this project.
 
