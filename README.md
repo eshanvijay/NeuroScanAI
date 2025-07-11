@@ -60,12 +60,12 @@ If you'd like to test the model locally, please DM me directly, and I will share
 A working demo video showcasing the app in action will be added here soon! 🔥
 
 🤝 Contributing:
-Contributions, issues, and feature requests are welcome!
-Feel free to open issues or pull requests to improve this project.
+- Contributions, issues, and feature requests are welcome!
+- Feel free to open issues or pull requests to improve this project.
 
 💬 Contact me:
 👨‍💻 Eshan Vijay
-GitHub: @eshanvijay
-LinkedIn: www.linkedin.com/in/eshanvijay
+- GitHub: @eshanvijay
+- LinkedIn: www.linkedin.com/in/eshanvijay
 
 ⭐️ If you find this project useful, please consider giving it a star! ⭐️
