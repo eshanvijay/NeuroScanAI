@@ -9,20 +9,20 @@ Try the project directly here:
 
 💡 Features:
 
--🏥 Analyze brain MRI scans for Alzheimer's disease indicators
--⚡ Fast and intuitive web interface
--📊 Visualization of predictions
--🧬 Modular design (frontend & backend separated)
--💻 Deployed and accessible online
+🏥 Analyze brain MRI scans for Alzheimer's disease indicators
+⚡ Fast and intuitive web interface
+📊 Visualization of predictions
+🧬 Modular design (frontend & backend separated)
+💻 Deployed and accessible online
 
 🛠️ Tech Stack:
 
--**Python** (TensorFlow, Keras, NumPy etc.)
--**Flask** (Backend server)
--**React.js** (Frontend)
-- **HTML/CSS/JavaScript**
-- **Git & GitHub**
-- **Vercel** (Deployment)
+**Python** (TensorFlow, Keras, NumPy etc.)
+**Flask** (Backend server)
+**React.js** (Frontend)
+**HTML/CSS/JavaScript**
+**Git & GitHub**
+**Vercel** (Deployment)
 
 ⚙️ Setup and Installation:
 
