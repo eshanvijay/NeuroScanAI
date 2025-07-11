@@ -1,7 +1,7 @@
 🧠 **NeuroScanAI**: Alzheimer's Detection from MRI Images
 
 🚀 Overview:
-NeuroScanAI is a **deep learning**-powered project designed to detect **Alzheimer's disease** from **MRI** brain scans. By leveraging convolutional neural networks** (CNNs)**, this tool helps provide early detection assistance to researchers and medical practitioners.
+NeuroScanAI is a **deep learning**-powered project designed to detect **Alzheimer's disease** from **MRI** brain scans. By leveraging convolutional neural networks **(CNNs)**, this tool helps provide early detection assistance to researchers and medical practitioners.
 
 🌐 Live Demo:
 Try the project directly here:  
