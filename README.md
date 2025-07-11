@@ -26,7 +26,7 @@ Try the project directly here:
 
 ⚙️ Setup and Installation:
 
-``` ```bash ```
+``` bash 
 # Clone this repository
 git clone https://github.com/eshanvijay/NeuroScanAI.git
 cd NeuroScanAI
