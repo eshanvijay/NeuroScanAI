@@ -66,6 +66,6 @@ A working demo video showcasing the app in action will be added here soon! 🔥
 💬 Contact me:
 👨‍💻 Eshan Vijay
 - GitHub: @eshanvijay
-- LinkedIn: www.linkedin.com/in/eshanvijay
+- LinkedIn: [Profile](www.linkedin.com/in/eshanvijay)
 
 ⭐️ If you find this project useful, please consider giving it a star! ⭐️
