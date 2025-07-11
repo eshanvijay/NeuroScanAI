@@ -26,7 +26,7 @@ Try the project directly here:
 
 ⚙️ Setup and Installation:
 
-``` ```bash
+``` ```bash ```
 # Clone this repository
 git clone https://github.com/eshanvijay/NeuroScanAI.git
 cd NeuroScanAI
@@ -54,6 +54,7 @@ npm start
 The trained model file (model.h5) is too large to include directly on GitHub (over 100 MB).
 
 If you'd like to test the model locally, please DM me directly, and I will share the file (Google Drive link or other preferred method).
+``` ``` ```
 
 🎥 Demo
 A working demo video showcasing the app in action will be added here soon! 🔥
